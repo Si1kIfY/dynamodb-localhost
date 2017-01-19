@@ -4,6 +4,8 @@ dynamodb-localhost
 [![npm version](https://badge.fury.io/js/dynamodb-localhost.svg)](https://badge.fury.io/js/dynamodb-localhost)
 [![license](https://img.shields.io/npm/l/dynamodb-localhost.svg)](https://www.npmjs.com/package/dynamodb-localhost)
 
+Lovingly forked from 99xt/dynamodb-localhost to fix Dynamodb Installation Error
+
 This library works as a wrapper for AWS DynamoDB Local, intended for use in devops. This library is capable of downloading and installing the DynamoDB Local with a simple set of commands, and pass optional attributes defined in ['DynamoDB Local Documentation'](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html).
 
 ## This Plugin Requires
